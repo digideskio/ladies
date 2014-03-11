@@ -3,7 +3,7 @@
 
 Include ladies.js inside your web page's head tag.
 
-When you want to get smooth, transform text on any part of the page by calling:
+When you want to get suave, transform text on any part of the page by calling:
 
 ```javascript
 Ladies( 'selector' );
