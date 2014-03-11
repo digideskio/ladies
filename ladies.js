@@ -1,5 +1,5 @@
 /**
- *		Ladies.js - v1.0.1
+ *		Ladies.js - v1.0.2
  *
  *		(⌐■_■)
  *
@@ -23,7 +23,8 @@
 	nodes = [ 'ARTICLE', 'SECTION', 'B', 'I', 'STRONG', 'P', 'SPAN', 
 			  'DIV', 'A', 'BODY', 'BUTTON', 'TD', 'TH', 'DD', 'DT', 
 			  'EM', 'FORM', 'LABEL', 'HTML', 'HEADER', 'FOOTER',
-			  'LI', 'NAV', 'H1', 'H2' ,'H3', 'H4', 'H5', 'H6' ],
+			  'LI', 'NAV', 'H1', 'H2' ,'H3', 'H4', 'H5', 'H6', 'TABLE',
+			  'TBODY', 'TR', 'DL', 'UL', 'OL' ],
 
 
 	// we should be weary of these
