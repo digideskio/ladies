@@ -1,5 +1,5 @@
 /**
- *		Ladies.js - v1.0.0
+ *		Ladies.js - v1.0.1
  *
  *		(⌐■_■)
  *
@@ -31,7 +31,8 @@
 
 
 	// So we can respect punctuation in sentences
-	punctuationChars = ['.', '!', '?', ' ', "\n", "\r"],
+	punctuationChars = ['.', '!', '?', ':', ';', ')', '(', ']', '[', 
+						'=', '_', '-', ' ', "\n", "\r"],
 
 
 
@@ -73,8 +74,7 @@
 			 *
 			 *  1. If element tag name is not of interest, skip.
 			 *  2. If element is hidden, skip.
-			 *	3. If the text content is the same as parent and this has no 
-			 *     valid children, apply ladies.
+			 *	3. If this has no valid children, apply ladies.
 			 */
 
 			// Ignore nodes outside of our list (Rule #1)
