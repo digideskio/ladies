@@ -1,7 +1,7 @@
 #Introducing Ladies.js
 ##Make the web a whole lot creepier
 
-Include ladies.js in your web page's <head>.
+Include ladies.js inside your web page's head tag.
 
 When you want to get smooth, transform text on any part of the page by calling:
 
