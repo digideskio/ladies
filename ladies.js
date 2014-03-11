@@ -152,7 +152,6 @@
 			node.textContent += '...ladies';
 		}
 
-		console.log ( node.textContent );
 	};
 
 
